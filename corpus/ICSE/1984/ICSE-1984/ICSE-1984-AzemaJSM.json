@@ -12,7 +12,7 @@
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE",
 	"tag": ["distributed", "prolog", "specification", "verification"],
-	"title": "Specification and Verification of Distributed Systems Using PROLOG Interpreded Petri Nets",
+	"title": "Specification and Verification of Distributed Systems Using PROLOG Interpreted Petri Nets",
 	"type": "inproceedings",
 	"venue": "ICSE",
 	"year": 1984
